@@ -15,33 +15,22 @@ you will need:
 
 step 2: Run the code ;)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 
 Copyright © 2023 Ambrož Jelenc. All rights reserved.
 
